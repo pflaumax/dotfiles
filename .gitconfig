@@ -1,0 +1,7 @@
+[user]
+	name = pflaumax
+	email = pflaumax@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
